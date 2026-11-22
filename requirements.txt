@@ -1,0 +1,7 @@
+Flask
+flask-cors
+telethon
+pymongo
+certifi
+python-dotenv
+gunicorn
